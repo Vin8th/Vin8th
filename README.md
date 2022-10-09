@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vin8th
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python, SQL and Microsoft Power BI
+- 💞️ I’m looking to collaborate on variety of data analysis techniques, Real-world project.
+- 📫 You can reach me @ bvineeth96@gmail.com
