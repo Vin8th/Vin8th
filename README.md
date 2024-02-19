@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working at **Neoware.ai**
 
-- 🌱 I’m currently learning **Web Development**
-- I am Proficient in Python, with expertise in Django. Passionate about clean code and unit testing.
-Currently exploring Flask and SQLAlchemy.
+- 🌱 I am Proficient in **Python**, with expertise in **Django**. Passionate about clean code and unit testing.
+Currently exploring **Flask** and **SQLAlchemy**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vin8th](https://github.com/Vin8th)
 
